@@ -1,0 +1,58 @@
+.login{
+    width: 600px;
+    margin: 50px auto;
+}
+
+.login-form{
+    width: 300px;
+    margin: 0 auto;
+}
+
+input{
+    text-align: center;
+    background-color: powderblue;
+    border: 1px solid #CCC;
+    border-radius: 5px;
+    padding: 5px;
+    width: 250px;
+    font-size: 16px;
+}   
+
+.login-field-icon{
+    display: inline-block;
+    text-align:left ;
+    width: 250px;
+}
+.register-contents{
+    border:1px solid crimson;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.control-group{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.register-link{
+    display: inline-block;
+    color: #FFFFFF;
+    background-color:crimson;
+    text-align: center;
+    width: 50%;
+    font-size:20px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    text-decoration:none; 
+}
+
+.btn{
+    font-size:20px;
+    width: 150px;
+    padding: 5px 0;
+    background-color:crimson;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    color: white;
+    margin: 10px 0 10px;
+}

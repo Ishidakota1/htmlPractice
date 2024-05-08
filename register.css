@@ -1,0 +1,51 @@
+
+.register{
+    background-color: white;
+    width: 1000px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+}
+
+.control-group{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.register-field-icon{
+    display: inline-block;
+    text-align:left ;
+    width: 15%;
+}
+
+input{
+    text-align: center;
+    padding: 5px;
+    width: 250px;
+    font-size: 16px;
+}
+
+
+.btn{
+    font-size:20px;
+    width: 200px;
+    padding: 5px 0;
+    background-color:crimson;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    color: white;
+    margin: 40px 0 20px;
+}
+
+.register-link{
+    font-size: 16px;
+    color: black;
+    display: block;
+    margin-top: 10px;
+}
+
+
