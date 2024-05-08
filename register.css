@@ -29,7 +29,7 @@ input{
     font-size: 16px;
 }
 
-
+    
 .btn{
     font-size:20px;
     width: 200px;
@@ -41,7 +41,7 @@ input{
     margin: 40px 0 20px;
 }
 
-.register-link{
+.login-link{
     font-size: 16px;
     color: black;
     display: block;
